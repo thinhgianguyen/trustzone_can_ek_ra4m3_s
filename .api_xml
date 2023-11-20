@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ddscApi>
+    <fsp module="module.driver.can_on_can">
+        <file>ra/fsp/inc/instances/r_can.h</file>
+        <file>ra/fsp/inc/api/r_can_api.h</file>
+        <file>ra_cfg/fsp_cfg/r_can_cfg.h</file>
+    </fsp>
+</ddscApi>
